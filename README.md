@@ -86,3 +86,4 @@ Fixed costs dominate spending, but discretionary costs offer optimization potent
 Expense pressure remains relatively consistent across income groups.
 
 Higher income groups demonstrate slightly stronger savings outcomes.
+
