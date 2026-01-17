@@ -14,6 +14,7 @@ Identify cost drivers
 
 Segment behavior across income groups
 
+
 🎯 Business Objectives
 
 The project aims to answer the following key business questions:
@@ -30,6 +31,7 @@ Which income groups experience higher financial pressure?
 
 How do savings outcomes vary across income segments?
 
+
 🧩 Dataset Summary
 
 Format: CSV
@@ -41,6 +43,7 @@ Nature: Consumer-level income and expense data
 Scope: Rent, groceries, transport, utilities, loan repayments, insurance, discretionary expenses
 
 The dataset is treated as a consumer expense portfolio, enabling enterprise-style cost and efficiency analysis.
+
 
 🛠️ Tools & Technologies
 
@@ -54,6 +57,7 @@ Excel (initial validation)
 
 GitHub (documentation & versioning)
 
+
 📐 Analytical Framework
 1️⃣ Baseline KPIs (Financial Scale)
 
@@ -65,6 +69,7 @@ Net Savings
 
 These KPIs establish overall financial capacity, consumption, and outcome.
 
+
 2️⃣ Efficiency KPIs
 
 Expense-to-Income Ratio
@@ -73,6 +78,7 @@ Savings Rate
 
 These ratios normalize totals and provide performance-based insights.
 
+
 3️⃣ Cost Driver Analysis
 
 Expense Composition by Category
@@ -80,6 +86,7 @@ Expense Composition by Category
 Fixed vs Discretionary Cost Split
 
 This layer identifies dominant spending categories and realistic optimization opportunities.
+
 
 4️⃣ Segmentation Analysis
 
@@ -92,6 +99,7 @@ Savings Rate by Income Group
 Segmentation reveals how efficiency and savings outcomes vary across income levels.
 
 Individual-level ratios were averaged within groups to avoid aggregation bias.
+
 
 📊 Dashboard Structure
 🔹 Page 1 – Executive Summary
@@ -120,6 +128,7 @@ Savings Rate by Income Group
 
 Purpose: Identify cost drivers, optimization levers, and segment-level behavior.
 
+
 🔍 Key Insights
 
 Rent and groceries together account for a majority of total expenses.
@@ -129,6 +138,7 @@ Fixed costs form a substantial portion of spending, but discretionary costs offe
 Expense pressure remains relatively consistent across income groups in this dataset.
 
 Higher income groups demonstrate slightly better savings outcomes, indicating stronger financial resilience.
+
 
 📈 Business Value
 
@@ -140,6 +150,7 @@ Avoids common analytical pitfalls (aggregation bias)
 
 Shows end-to-end ownership: data → KPIs → insights → storytelling
 
+
 🚀 How to Use
 
 Download the .pbix file
@@ -149,6 +160,7 @@ Open in Power BI Desktop
 Refresh data if required
 
 Navigate between pages to explore insights
+
 
 🧠 What This Project Demonstrates
 
@@ -160,6 +172,7 @@ Thoughtful KPI selection and validation
 
 Business-first storytelling approach
 
+
 📌 Future Enhancements
 
 Add city-tier or dependent-based segmentation
@@ -168,8 +181,11 @@ Introduce trend analysis (time-based, if data allows)
 
 Add scenario simulations for cost optimization
 
+
 👤 Author
 
 Ashutosh Dumbre
+
 Supply Chain & Analytics Professional
+
 (Power BI | Data Analytics | Business Intelligence)
