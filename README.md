@@ -50,6 +50,7 @@ Individual-level ratios were averaged within income groups to avoid aggregation 
 This analysis highlights how financial efficiency and outcomes vary across income segments.
 
 📊 Dashboard Structure
+
 Page 1 – Executive Summary
 
 Aggregate Income
